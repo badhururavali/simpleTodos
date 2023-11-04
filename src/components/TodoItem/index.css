@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.todoLists {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #000000;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.button {
+  height: 30px;
+  width: 70px;
+  background-color: transparent;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  color: #ff0b37;
+  margin-left: 50px;
+  cursor: pointer;
+}
